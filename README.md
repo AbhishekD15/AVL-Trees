@@ -24,4 +24,4 @@ Our input is then followed by exactly one finishing move (PRE or POST or IN): If
 
 **Compile**
 
->g++ -std=c11 -o main.out -O2 -Wall main.cpp.
+>g++ -std=c11 -o main.out -O2 -Wall main1.cpp.
