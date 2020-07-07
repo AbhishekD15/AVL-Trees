@@ -1,9 +1,9 @@
 ## AVL-Trees
 
-**Implementing :**
 
-- Binary Tree Traversal
-- AVL Tree Insertion and Deletion
+
+**Binary Tree Traversal**
+**AVL Tree Insertion and Deletion**
   
   This program starts by initializing an empty AVL tree. The program takes one line as input. The input line contains n “modification moves” separated by spaces (1 ≤ n ≤ 100). 
   
@@ -21,3 +21,7 @@ Our input is then followed by exactly one finishing move (PRE or POST or IN): If
 >Sample output 2: 2 1 3 Sample input 3: A1 D1 POST Sample output 3: EMPTY
 
 *NOTE: NOT TAKEN CARE OF INVALID INPUTS*
+
+**Compile**
+
+`<g++ -std=c11 -o main.out -O2 -Wall main.cpp.>'
